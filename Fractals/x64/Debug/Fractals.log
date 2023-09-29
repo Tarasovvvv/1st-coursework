@@ -1,0 +1,31 @@
+﻿  MyForm.cpp
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(521,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(521,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(522,33): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(522,25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(523,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(523,25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(557,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(557,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(558,35): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(558,25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(559,44): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(559,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(560,35): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(560,25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(644,26): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(658,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(659,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(661,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(664,36): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(666,36): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(722,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(724,52): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(725,52): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(749,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.h(750,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\ПРЕДМЕТЫ\4 семестр\Fractals\Fractals\MyForm.cpp(6,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+LINK : fatal error LNK1561: точка входа должна быть определена

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1831
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fractals", "Fractals\Fractals.vcxproj", "{F9FFC62D-A220-4A39-8F35-62761EA6C8E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		Фракталы|Win32 = Фракталы|Win32
+		Фракталы|x64 = Фракталы|x64
+		Фракталы|x86 = Фракталы|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9FFC62D-A220-4A39-8F35-62761EA6C8E5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F9FFC62D-A220-4A39-8F35-62761EA6C8E5}.Debug|Win32.Build.0 = Debug|Win32
+		{F9FFC62D-A220-4A39-8F35-62761EA6C8E5}.Debug|x64.ActiveCfg = Debug|x64
+		{F9FFC62D-A220-4A39-8F35-62761EA6C8E5}.Debug|x64.Build.0 = Debug|x64
+		{F9FFC62D-A220-4A39-8F35-62761EA6C8E5}.Debug|x86.ActiveCfg = Debug|Win32
+		{F9FFC62D-A220-4A39-8F35-62761EA6C8E5}.Debug|x86.Build.0 = Debug|Win32
+		{F9FFC62D-A220-4A39-8F35-62761EA6C8E5}.Release|Win32.ActiveCfg = Release|Win32
+		{F9FFC62D-A220-4A39-8F35-62761EA6C8E5}.Release|Win32.Build.0 = Release|Win32
+		{F9FFC62D-A220-4A39-8F35-62761EA6C8E5}.Release|x64.ActiveCfg = Release|x64
+		{F9FFC62D-A220-4A39-8F35-62761EA6C8E5}.Release|x64.Build.0 = Release|x64
+		{F9FFC62D-A220-4A39-8F35-62761EA6C8E5}.Release|x86.ActiveCfg = Release|Win32
+		{F9FFC62D-A220-4A39-8F35-62761EA6C8E5}.Release|x86.Build.0 = Release|Win32
+		{F9FFC62D-A220-4A39-8F35-62761EA6C8E5}.Фракталы|Win32.ActiveCfg = Фракталы|x64
+		{F9FFC62D-A220-4A39-8F35-62761EA6C8E5}.Фракталы|Win32.Build.0 = Фракталы|x64
+		{F9FFC62D-A220-4A39-8F35-62761EA6C8E5}.Фракталы|x64.ActiveCfg = Фракталы|x64
+		{F9FFC62D-A220-4A39-8F35-62761EA6C8E5}.Фракталы|x64.Build.0 = Фракталы|x64
+		{F9FFC62D-A220-4A39-8F35-62761EA6C8E5}.Фракталы|x86.ActiveCfg = Фракталы|Win32
+		{F9FFC62D-A220-4A39-8F35-62761EA6C8E5}.Фракталы|x86.Build.0 = Фракталы|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B6F04B3-DB00-4136-8811-CB6EE3DAF6B1}
+	EndGlobalSection
+EndGlobal

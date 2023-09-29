@@ -1,0 +1,23 @@
+﻿  MyForm.cpp
+c:\users\triple\source\repos\fractals\fractals\fractals\myform.h(521): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\triple\source\repos\fractals\fractals\fractals\myform.h(522): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\triple\source\repos\fractals\fractals\fractals\myform.h(523): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\triple\source\repos\fractals\fractals\fractals\myform.h(557): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\triple\source\repos\fractals\fractals\fractals\myform.h(558): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\triple\source\repos\fractals\fractals\fractals\myform.h(559): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\triple\source\repos\fractals\fractals\fractals\myform.h(560): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\triple\source\repos\fractals\fractals\fractals\myform.h(644): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\triple\source\repos\fractals\fractals\fractals\myform.h(658): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\triple\source\repos\fractals\fractals\fractals\myform.h(659): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\triple\source\repos\fractals\fractals\fractals\myform.h(661): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\triple\source\repos\fractals\fractals\fractals\myform.h(664): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\triple\source\repos\fractals\fractals\fractals\myform.h(666): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\triple\source\repos\fractals\fractals\fractals\myform.h(722): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\triple\source\repos\fractals\fractals\fractals\myform.h(724): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\triple\source\repos\fractals\fractals\fractals\myform.h(725): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\triple\source\repos\fractals\fractals\fractals\myform.h(749): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\triple\source\repos\fractals\fractals\fractals\myform.h(750): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\triple\source\repos\fractals\fractals\fractals\myform.cpp(6): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Fractals.vcxproj -> C:\Users\Triple\source\repos\Fractals\Fractals\Debug\Fractals.exe
